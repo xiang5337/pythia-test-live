@@ -3,7 +3,7 @@
 
 ## Summary
 - test
-## Ticket
+## Ticket update mo
 [1069300](https://portal.yopeso.com/task/1069300) 
 
 ## Testing
@@ -18,7 +18,7 @@
 
 1069300 
 
-- test
+- test update
 
 Ticket: 1069300
 Reviewer: Stallion

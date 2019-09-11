@@ -18,7 +18,7 @@
 
 1069300 
 
-- test update
+- test update modify
 
 Ticket: 1069300
 Reviewer: Stallion
