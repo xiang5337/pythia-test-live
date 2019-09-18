@@ -4,7 +4,8 @@
 	[	"lumen-framework/ignorefiles/IgnoreFileCase3.php",
 		"lumen-framework/ignorefiles/IgnoreFileCase2.php",	
 		"README.md",
-		"lumen-framework/composer.json"
+		"lumen-framework/composer.json",
+		"lumen-framework/composer-lock.json"
 	]
 }
 
